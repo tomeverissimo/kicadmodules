@@ -1,4 +1,193 @@
 kicadmodules
 ============
 
-Collection of KiCAD modules
+Collection of KiCAD modules.
+
+- BGA
+	- 356
+	- 600
+	- 672
+
+- C
+	- 0402
+	- 0603
+	- 0805
+	- 1206
+	- 1210
+	- 2220
+	- CASE-A
+	- CASE-B
+	- RADIAL-080MM
+	- RADIAL-10X20MM
+	- RADIAL-12.5MM
+	- RADIAL-12.5MM_SMD
+	- RADIAL-13X20MM
+	- RADIAL-16MM
+	- RADIAL-18MM
+	- RADIAL-20-30MM
+	- RADIAL-20-30X30-40MM_H
+	- RADIAL-5MM
+	- RADIAL-6.3MM
+	- RECT-18X5MM
+	- RECT-7.5X3MM
+
+- CONNECTORS
+	- ANTENNA
+		- SMA_RA
+		- SMA_V
+		- UFL
+	- DB
+		- 9_M
+		- 9_F
+		- 15_F
+		- 15_F_VGA
+		- 15_M
+		- 25_F
+		- 25_M
+	- MEMORY
+		- MICRO_SD_SOCKET
+	- RELAYS
+		- G5V-1
+	- RJ
+		- 45-LED
+		- 45-NO_SHLD
+		- 45-SHLD
+		- 45_RA
+		- 45_V
+	- SIL_DIL
+		- MOLEX_39-28-8020
+		- MOLEX_90130-1206
+		- MULTICOMP_2261
+		- MULTICOMP_MC34333
+		- MULTICOMP_MC34335
+		- MULTICOMP_MC34861
+		- MULTICOMP_MC34863
+		- TC2030-MCP-NL
+	- SIM
+		- 91228-3001
+		- ID1A-6S-254SF
+	- TERMINALS
+		- 10_SIL_RA_5.08
+		- PHOENIX_2,5/2-G-5,08
+		- PHOENIX_2,5/3-G-5,08
+		- PHOENIX_2,5/4-G-5,08
+		- PHOENIX_2,5/5-G-5,08
+		- PHOENIX_2,5/6-G-5,08
+		- PHOENIX_2,5/7-G-5,08
+		- PHOENIX_2,5/8-G-5,08
+		- PHOENIX_2,5/9-G-5,08
+		- PHOENIX_2,5/10-G-5,08
+		- PHOENIX_2,5/11-G-5,08
+		- PHOENIX_2,5/12-G-5,08
+		- SMD451
+		- SMD452
+	- USB
+		- AX2_H_TH
+		- A_H_TH
+		- A_V_TH
+		- B_H_TH
+		- MICRO_B_H_SMD
+		- MINI_B_H_SMD
+
+- CRYSTALS
+
+- DFN
+
+- DIP
+
+- DO
+
+- FBGA
+
+- FB
+	- 0402
+	- 0603
+	- 0805
+	- 1206
+	- 1210
+
+- F
+	- 0402
+	- 0603
+	- 0805
+	- 1206
+	- 1210
+
+- HVQFN
+
+- LCC
+
+- LED
+	- 0603
+	- 0805
+
+- LFBGA
+
+- L
+	- 0402
+	- 0603
+	- 0805
+	- 1206
+	- 1210
+
+- LQFP
+
+- MLF
+
+- MODULES
+
+- MSOP
+
+- PAK
+
+- PCB_DRAWINGS
+
+- PCB_MECHANICALS
+
+- PGA
+
+- PLCC
+
+- PQFP
+
+- QSOP
+
+- RADIAL
+
+- R
+	- 0402
+	- 0603
+	- 0805
+	- 1206
+	- 1210
+
+- RQFP
+
+- SC
+
+- SMA_B_C
+
+- SOD
+
+- SOIC
+
+- SO
+
+- SOP
+
+- SOT
+
+- SSOP
+
+- SWITCHES
+
+- TO
+
+- TQFP
+
+- TSOP
+
+- TSOT
+	- 6
+
+- TSSOP
